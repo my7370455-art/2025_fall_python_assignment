@@ -60,7 +60,7 @@ for i in path_lis:
 ```
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-!()[]
+![](https://github.com/my7370455-art/2025_fall_python_assignment/blob/main/assignmentC/images/Screenshot%202025-12-01%20225717.png?raw=true)
 
 ### sy324 多终点迷宫问题
 
@@ -110,6 +110,7 @@ for row in result:
 ```
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
+![](https://github.com/my7370455-art/2025_fall_python_assignment/blob/main/assignmentC/images/Screenshot%202025-12-01%20225717.png?raw=true)
 
 ### M02945: 拦截导弹
 
@@ -134,6 +135,7 @@ else:
 ```
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
+![](https://github.com/my7370455-art/2025_fall_python_assignment/blob/main/assignmentC/images/Screenshot%202025-12-01%20225903.png?raw=true)
 
 ### 189A. Cut Ribbon
 
@@ -168,7 +170,7 @@ print(dp[n])
 ```
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-!()[]
+![](https://github.com/my7370455-art/2025_fall_python_assignment/blob/main/assignmentC/images/Screenshot%202025-12-01%20230019.png?raw=true)
 
 ### M01384: Piggy-Bank
 
@@ -203,7 +205,7 @@ for _ in range(cases):
 ```
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-!()[]
+![](https://github.com/my7370455-art/2025_fall_python_assignment/blob/main/assignmentC/images/Screenshot%202025-12-01%20230204.png?raw=true)
 
 ### M02766: 最大子矩阵
 
@@ -244,7 +246,7 @@ print(ans)
 ```
 
 代码运行截图 <mark>（至少包含有"Accepted"）</mark>
-!()[]
+![](https://github.com/my7370455-art/2025_fall_python_assignment/blob/main/assignmentC/images/Screenshot%202025-12-01%20230249.png?raw=true)
 
 ## 2. 学习总结和收获
 
