@@ -1,0 +1,6 @@
+l = int(input())
+n = int(input())
+stu_lis = list(map(int, input().strip().split()))
+max_time = max(max(i, l-i+1) for i in stu_lis)
+min_time = max(min(i, l-i+1) for i in stu_lis)
+print(min_time, max_time)
