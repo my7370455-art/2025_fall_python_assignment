@@ -18,6 +18,7 @@ directions = [(-2, -1), (-2, 1), (-1, -2), (-1, 2), (1, -2), (1, 2), (2, -1), (2
 
 while queue:
     current_pos = queue.popleft()
+    visited.add(current_pos)
     if current_pos == end_pos:
         break
     for dx, dy in directions:
@@ -27,7 +28,6 @@ while queue:
             continue
         next_pos = (next_x, next_y)
         if 0 <= next_x <= 10 and 0 <= next_y <= 10 and next_pos not in visited and next_pos not in pieces_list:
-            visited.add(next_pos)
             parent_dic[next_pos] = current_pos
             queue.append(next_pos)
 
